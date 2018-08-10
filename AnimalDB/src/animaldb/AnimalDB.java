@@ -1,9 +1,6 @@
 package animaldb;
 
 /**
- * I did borrow alot from your example I had a family emergency this week Uncle was robbed and shot in the leg
- * and my Sister in laws brother passed away. I was unable to make the connection and had thought about changing this over to 
- * SQL but ran out of time.
  * @author Greg
  * Java 2 
  * 9/14/2015
